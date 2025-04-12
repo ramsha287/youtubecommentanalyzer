@@ -11,4 +11,3 @@ python-dotenv
 setuptools
 wheel
 googletranslate
-googleapiclient
