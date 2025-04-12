@@ -10,3 +10,4 @@ wordcloud
 python-dotenv
 setuptools
 wheel
+googletranslate

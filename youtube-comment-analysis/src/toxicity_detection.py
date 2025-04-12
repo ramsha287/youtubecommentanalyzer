@@ -1,6 +1,6 @@
 from transformers import pipeline
 from toxicity_detection import detect_toxicity
-from googletrans import Translator  # Ensure googletrans==4.0.0-rc1 is installed
+from googletranslate import Translator 
 
 # Load Hugging Face toxicity model
 toxicity_model = pipeline("text-classification", model="unitary/toxic-bert")
