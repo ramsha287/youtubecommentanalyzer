@@ -7,4 +7,6 @@ nltk==3.8.1
 textblob==0.17.1
 plotly==5.19.0
 wordcloud==1.9.3
-python-dotenv==1.0.1 
+python-dotenv==1.0.1
+setuptools
+wheel
