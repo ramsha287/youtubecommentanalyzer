@@ -47,24 +47,7 @@ streamlit run src/app.py
 
 4. View the results and visualizations
 
-## Project Structure
 
-```
-youtube-comment-analysis/
-├── src/                    # Source code
-│   ├── app.py             # Main Streamlit app
-│   ├── get_comments.py    # YouTube API integration
-│   ├── text_processing.py # Text analysis
-│   ├── classify.py        # Comment categorization
-│   ├── visualization.py   # Data visualization
-│   ├── utils.py          # Helper functions
-│   └── config.py         # Configuration
-├── models/                # Trained models
-├── data/                 # Data storage
-│   ├── raw/             # Raw comment data
-│   └── processed/       # Processed data
-└── tests/               # Test files
-```
 
 ## Requirements
 
