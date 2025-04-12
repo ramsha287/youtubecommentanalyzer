@@ -6,9 +6,6 @@ from visualization import create_visualizations, create_wordcloud, create_classi
 from config import YOUTUBE_API_KEY
 from topic_modeling import cluster_comments
 import pandas as pd
-import os
-os.system('pip install google-api-python-client')
-
 
 def main():
     st.title("YouTube Comment Analysis")
